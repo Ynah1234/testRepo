@@ -1,21 +1,20 @@
-1. <html>
-2. 
-3. <head> 
-   
-4. <title> LO3: Utilize Code Versioning Tools
-5. </title>
-6.</head>
-7. 
-8. <body> 
-9. <p> Dorothy M. Abasola </p>
-10,</body>
-11.
-12.</html>
-13.
-14.
-15.
-16.
-17. 
- 
+<html> 
+<header> 
+<title> LO3: Utilize Code Versioning Tools </title>
+
+<head>
+
+<body>
+<p>Dorothy Abasola</p>
+<b>Dorothy Abasola</b><br>
+<i>Dorothy Abasola</i><br>
+<u>Dorothy Abasola</u><br>
+<strike>Dorothy Abasola</strike><br>
+<tt>Dorothy Abasola</tt><br>
+<sup>Dorothy Abasola</sup><br>
+<sub>Dorothy Abasola</sub>
 
 
+</body>
+
+</html>
